@@ -12,6 +12,10 @@ body {
   padding: 1em;
   text-align: left;
   border: 1px solid #DDD;
+  border-right: 10px solid #FFF233;
+  border-left: 10px solid #33BEFF;
+  border-top: 3px solid #FF8533;
+  border-bottom: 3px solid #fafa;
   margin:  0 auto;
 }
 
